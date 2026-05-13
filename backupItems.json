@@ -1,0 +1,92 @@
+[
+  {
+    "title": {
+      "es": "Gestión de Memoria en C: Introducción Básica",
+      "en": "Memory Management in C: Basic Introduction"
+    },
+    "excerpt": {
+      "es": "Sumérgete en el fascinante mundo de la gestión de memoria en C. Conceptos básicos, stack, heap y más.",
+      "en": "Dive into the fascinating world of memory management in C. Basic concepts, stack, heap and more."
+    },
+    "date": "2023-10-27",
+    "url": "/gestion-de-memoria-en-c",
+    "img": "/memory_management_c.jpeg",
+    "tags": [
+      "c",
+      "low-level"
+    ],
+    "readTime": "11"
+  },
+  {
+    "title": {
+      "es": "Comprendiendo la arquitectura de Windows",
+      "en": "Understanding Windows Architecture"
+    },
+    "excerpt": {
+      "es": "Conocer a fondo el sistema que deseamos proteger es crucial. Desglosamos la arquitectura de Windows, sus componentes y funciones.",
+      "en": "Understanding the system we want to protect is crucial. We break down Windows architecture, its components and functions."
+    },
+    "date": "2024-05-30",
+    "url": "/arquitectura-de-windows",
+    "img": "/winarchitect.jpeg",
+    "tags": [
+      "windows",
+      "internals"
+    ],
+    "readTime": "14"
+  },
+  {
+    "title": {
+      "es": "Instalando nuestro propio entorno de análisis de malware",
+      "en": "Setting Up Our Own Malware Analysis Environment"
+    },
+    "excerpt": {
+      "es": "Aprende a configurar un entorno seguro y eficiente para el análisis de malware paso a paso.",
+      "en": "Learn how to set up a safe and efficient malware analysis environment step by step."
+    },
+    "date": "2024-07-01",
+    "url": "/instalando-entorno-analisis-malware",
+    "img": "/analysis_environment.jpeg",
+    "tags": [
+      "lab",
+      "setup"
+    ],
+    "readTime": "10"
+  },
+  {
+    "title": {
+      "es": "Cifrado del Payload Malicioso: ¿Podemos Detectarlo?",
+      "en": "Malicious Payload Encryption: Can We Detect It?"
+    },
+    "excerpt": {
+      "es": "Los métodos de cifrado y obfuscación que usan los atacantes para esconder su payload — y los patrones que delatan cualquier muestra, por elaborada que sea.",
+      "en": "The encryption and obfuscation methods attackers use to hide their payload — and the patterns that expose any sample, no matter how sophisticated."
+    },
+    "date": "2024-07-06",
+    "url": "/cifrado-payload-malicioso",
+    "img": "/cifradopayload.jpeg",
+    "tags": [
+      "malware",
+      "reversing"
+    ],
+    "readTime": "12"
+  },
+  {
+    "title": {
+      "es": "Historia del Malware: De los Primeros Virus a las Amenazas Modernas",
+      "en": "History of Malware: From the First Viruses to Modern Threats"
+    },
+    "excerpt": {
+      "es": "Explora la evolución del malware desde sus inicios hasta las sofisticadas amenazas actuales.",
+      "en": "Explore the evolution of malware from its beginnings to today's sophisticated threats."
+    },
+    "date": "2024-02-06",
+    "url": "/historia-del-malware",
+    "img": "/mal_history.jpeg",
+    "tags": [
+      "malware",
+      "history"
+    ],
+    "readTime": "18"
+  }
+]

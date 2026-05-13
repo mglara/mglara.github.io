@@ -1,0 +1,57 @@
+[
+  {
+    "title": {
+      "es": "Trazando Syscalls",
+      "en": "Tracing Syscalls"
+    },
+    "excerpt": {
+      "es": "Me apetecía jugar un poco con las syscalls quitarme el polvo de encima y aprovechar para explicar algo más a fondo como funcionan.",
+      "en": "I felt like playing around with syscalls a bit, shaking off the rust, and taking the opportunity to explain in more depth how they actually work."
+    },
+    "date": "2026-05-10",
+    "url": "/trazando-syscalls",
+    "img": "/trazando-syscalls/trazando-syscalls.png",
+    "tags": [
+      "kernel",
+      "c",
+      "low-level"
+    ],
+    "readTime": "10"
+  },
+  {
+    "title": {
+      "es": "Redireccionamiento de stdin, stdout y stderr en Linux",
+      "en": "Redirecting stdin, stdout and stderr in Linux"
+    },
+    "excerpt": {
+      "es": "Aprende sobre el directorio /proc, el contenido de /fd y cómo realizar cambios en la consola en tiempo de ejecución.",
+      "en": "Learn about the /proc directory, /fd contents and how to make runtime changes in the console."
+    },
+    "date": "2019-09-17",
+    "url": "/redireccionamiento-stdin-stdout-stderr",
+    "img": "/std_redirection.jpeg",
+    "tags": [
+      "linux",
+      "shell"
+    ],
+    "readTime": "8"
+  },
+  {
+    "title": {
+      "es": "¿Qué son STDIN, STDOUT, STDERR?",
+      "en": "What are STDIN, STDOUT, STDERR?"
+    },
+    "excerpt": {
+      "es": "Los flujos de datos estándar que gestionan la entrada y salida de información en los programas.",
+      "en": "The standard data streams that manage input and output in programs."
+    },
+    "date": "2024-02-06",
+    "url": "/stdin-stdout-stderr",
+    "img": "/std_redirection.jpeg",
+    "tags": [
+      "linux",
+      "shell"
+    ],
+    "readTime": "6"
+  }
+]
