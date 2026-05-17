@@ -6,9 +6,9 @@
     },
     "excerpt": {
       "es": "Continuando con el tema de las syscalls vamos a hacer unos ligeros añadidos a lo que habíamos conseguido.",
-      "en": "Continuando con el tema de las syscalls vamos a hacer unos ligeros añadidos a lo que habíamos conseguido."
+      "en": "Continuing with the topic of system calls, we’re going to make a few minor additions to what we’ve already accomplished."
     },
-    "date": "2026-05-15",
+    "date": "2026-05-17",
     "url": "/mini-sandbox",
     "img": "/mini-sandbox/mini-sandbox.png",
     "tags": [
