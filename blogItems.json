@@ -1,6 +1,25 @@
 [
   {
     "title": {
+      "es": "Mini-Sandbox",
+      "en": "Mini-Sandbox"
+    },
+    "excerpt": {
+      "es": "Continuando con el tema de las syscalls vamos a hacer unos ligeros añadidos a lo que habíamos conseguido.",
+      "en": "Continuando con el tema de las syscalls vamos a hacer unos ligeros añadidos a lo que habíamos conseguido."
+    },
+    "date": "2026-05-15",
+    "url": "/mini-sandbox",
+    "img": "/mini-sandbox/mini-sandbox.png",
+    "tags": [
+      "kernel",
+      "c",
+      "low-level"
+    ],
+    "readTime": "10"
+  },
+  {
+    "title": {
       "es": "Trazando Syscalls",
       "en": "Tracing Syscalls"
     },
