@@ -1,6 +1,25 @@
 [
   {
     "title": {
+      "es": "Balanceando conexiones sin tocar la aplicación",
+      "en": "Balanceando conexiones sin tocar la aplicación"
+    },
+    "excerpt": {
+      "es": "nftables no solo sirve para filtrar paquetes. En este post veremos cómo utilizarlo junto a conntrack y policy routing para repartir conexiones entre múltiples túneles VPN manteniendo la afinidad por flujo, y de paso repasaremos algunas herramientas muy útiles de troubleshooting.",
+      "en": "nftables no solo sirve para filtrar paquetes. En este post veremos cómo utilizarlo junto a conntrack y policy routing para repartir conexiones entre múltiples túneles VPN manteniendo la afinidad por flujo, y de paso repasaremos algunas herramientas muy útiles de troubleshooting."
+    },
+    "date": "2026-07-03",
+    "url": "/balanceando-conexiones-sin-tocar-la-aplicacion",
+    "img": "/balanceando-conexiones-sin-tocar-la-aplicacion/balanceando-conexiones-sin-tocar-la-aplicacion.png",
+    "tags": [
+      "nftables",
+      "firewall",
+      "conntrack"
+    ],
+    "readTime": "20"
+  },
+  {
+    "title": {
       "es": "Mini-Sandbox",
       "en": "Mini-Sandbox"
     },
